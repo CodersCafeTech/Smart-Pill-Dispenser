@@ -1,0 +1,10 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "particle.firmwareVersion": "5.9.0",
+    "particle.targetDevice": "Photon_2",
+    "particle.targetPlatform": "p2"
+}
